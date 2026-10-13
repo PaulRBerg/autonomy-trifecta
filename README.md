@@ -1,3 +1,5 @@
+![Autonomy Trifecta](assets/social.jpg)
+
 # Autonomy Trifecta
 
 An agent-run installer for persistent memory, recursive self-improvement, and optional coordination between parallel
