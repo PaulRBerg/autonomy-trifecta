@@ -3,7 +3,7 @@
 # Autonomy Trifecta
 
 An agent-run installer for persistent memory, recursive self-improvement, and optional coordination between parallel
-agents. Based on [The Agent Autonomy Trifecta: Memory, Self-Improvement, and Coordination](https://prberg.com/posts/2026/autonomy-trifecta/).
+agents. Based on [The Agent Autonomy Trifecta: Memory, Self-Improvement, and Coordination](https://prberg.com/posts/2026/agent-autonomy-trifecta).
 
 [AGENTS.md](AGENTS.md) is the installation skill. It tells your agent how to configure the stack on **your computer**:
 detect your harness, preserve your existing skills and rules, install
